@@ -1,21 +1,22 @@
 # Aruduino基礎
 
 ## デジタルハリウッド本科デジタルデザイン専科
-## インタラクティブデザインクラス
-## ARUDUINO
+### インタラクティブデザインクラス
+#### ARUDUINO
 
-![famicon](img/title.JPG)
+![famicon](img/title.png)
 
-- [Aruduinoとは](01.md)
-- [どんな物が作れるか](01.md)
-- [配布物の説明](01.md)
-- [Aruduino基盤の説明](01.md)
-- [IDE説明](02.md)
-- [Arduino（実習）](02.md)
-	- [LED制御](02.md)
-	- [スイッチ](03.md)
-	- [光センサ](03.md)
-- [processingと繋ぐ](04.md)
+- [01.Aruduinoとは](01.md)
+	- どんな物が作れるか
+	- 配布物の説明
+	- Aruduino基盤の説明
+- [02.ソフトウェアとLED](02.md)
+	- Arduino（実習）
+	- LED制御
+- [03.電子工作をやってみる](03.md)
+	- スイッチ
+	- 光センサ
+- [04.processingと繋ぐ](04.md)
 
 
 
