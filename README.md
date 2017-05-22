@@ -33,9 +33,6 @@
 - selfish
 - bug
 
-![dot](img/dot.jpg)
-![selfish](img/selfish.jpg)
-![famicon](img/famicon.JPG)
 ![bug](img/bug.jpg)
 
 
